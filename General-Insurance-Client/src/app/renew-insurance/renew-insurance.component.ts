@@ -65,7 +65,7 @@ export class RenewInsuranceComponent implements OnInit {
         sessionStorage.setItem( 'user', JSON.stringify(this.user));
         this.insuranceService.fetchPremiums(this.vehicle).subscribe(response => {
           this.estimate = response;
-          alert("heloo");
+         
           sessionStorage.setItem('estimateBuyInsurance', JSON.stringify(this.estimate));
         })
         this.router.navigate(['choose-plan']);
