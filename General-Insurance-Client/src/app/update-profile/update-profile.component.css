@@ -28,7 +28,7 @@ input,
 }
 
 input[type=submit] {
-    background-color: rgb(230, 131, 66);
+    background-color: #42A5FF;
 }
 
 div.text-danger {
@@ -83,13 +83,13 @@ div.text-danger {
 }
 
 .progressbar li.active {
-    color: rgb(230, 131, 66);
+    color: #42A5FF;
 }
 
 .progressbar li.active:before {
-    border-color: rgb(230, 131, 66);
+    border-color: #42A5FF;
 }
 
 .progressbar li.active+li:after {
-    background-color: rgb(230, 131, 66);
+    background-color: #42A5FF;
 }
