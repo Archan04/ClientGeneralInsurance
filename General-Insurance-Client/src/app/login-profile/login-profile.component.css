@@ -32,13 +32,13 @@ ul {
 li a {
     display: block;
     color: #000;
-    background-color: rgb(207, 107, 14);
+    background-color: #42A5FF;
     padding: 8px 16px;
     text-decoration: none;
     text-align: center;
     font-size: 25px;
     padding: 10px;
-    border: 1px solid orange;
+    border: 1px solid #42A5FF;
     margin: 10px;
     border-radius: 5px;
 }
@@ -47,18 +47,18 @@ li a {
 /* Change the link color on hover */
 
 li a:hover {
-    background-color: rgb(236, 102, 12);
+    background-color: #42A5FF;
     color: white;
 }
 
 table, th, td {
     text-align: center;
-    border: 3px solid rgb(236, 102, 12);
+    border: 3px solid #42A5FF;
     border-collapse: collapse;
   }
 th{
-    color: rgb(236, 102, 12);
+    color: #42A5FF;
 }  
 h2, h4, p{
-    color: rgb(207, 107, 14);
+    color: #42A5FF;
 }

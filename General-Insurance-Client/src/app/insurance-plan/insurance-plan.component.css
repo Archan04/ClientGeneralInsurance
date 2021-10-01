@@ -11,13 +11,13 @@
 input,
 .btn {
     border-style: solid;
-    border-color: black;
+   
     border-radius: 4px;
     margin: 10px 30px 0 20px;
     opacity: 0.85;
     font-size: 15px;
     line-height: 20px;
-    background-color: rgb(230, 131, 66);
+    background-color: #42A5FF;
     text-decoration: none;
     /* remove underline from anchors */
 }
@@ -33,12 +33,12 @@ input,
 input[type=submit] {
     float: center;
     padding: 5px 15px 5px 15px;
-    background-color: rgb(230, 131, 66);
+    background-color: #42A5FF;
 }
 
 .box {
     text-align: center;
-    background-color: rgb(230, 131, 66);
+    background-color: #42A5FF;
     padding: 15px;
     margin: 0 50px 0 50px;
     font-size: 30px;
@@ -72,7 +72,7 @@ input[type=submit] {
 .donate-now input {
     display: block;
     position: absolute;
-    background-color: rgb(230, 131, 66);
+    background-color: #42A5FF;
     padding: 10px 25px 10px 25px;
     border-style: solid;
     border-color: black;
@@ -144,15 +144,15 @@ input[type=submit] {
 }
 
 .progressbar li.active {
-    color: rgb(230, 131, 66);
+    color: #42A5FF;
 }
 
 .progressbar li.active:before {
-    border-color: rgb(230, 131, 66);
+    border-color: #42A5FF;
 }
 
 .progressbar li.active+li:after {
-    background-color: rgb(230, 131, 66);
+    background-color: #42A5FF;
 }
 
 #card {
@@ -197,7 +197,7 @@ input[type=submit] {
 }
 
 .button {
-    background-color: rgb(230, 131, 66);
+    background-color: #42A5FF;
     border-radius: 5px;
     color: white;
     padding: 10px 20px;

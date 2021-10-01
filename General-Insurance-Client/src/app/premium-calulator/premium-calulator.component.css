@@ -29,7 +29,7 @@ select,
 }
 
 input[type=submit] {
-    background-color: rgb(230, 131, 66);
+    background-color: #42A5FF;
 }
 
 div.text-danger {

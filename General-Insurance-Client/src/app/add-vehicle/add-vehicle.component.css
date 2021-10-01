@@ -17,7 +17,7 @@ th, td {
     padding: 6px;
   }
   
-tr:nth-child(even) {background-color: rgb(223, 178, 149);}
+tr:nth-child(even) {background-color: #42A5FF;}
 
 input,
 select,
@@ -46,7 +46,7 @@ button{
   font-size: 17px;
   line-height: 20px;
   text-decoration: none; 
-    background-color: rgb(230, 131, 66);
+    background-color: #42A5FF;
 }
 
 div.text-danger{
